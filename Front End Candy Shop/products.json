@@ -3,7 +3,7 @@
     {
       "sys": { "id": "1" },
       "fields": {
-        "title": "queen panel bed",
+        "title": "Snickers",
         "price": 10.99,
         "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
       }
@@ -11,7 +11,7 @@
     {
       "sys": { "id": "2" },
       "fields": {
-        "title": "king panel bed",
+        "title": "Twix",
         "price": 12.99,
         "image": { "fields": { "file": { "url": "./images/product-2.jpeg" } } }
       }
@@ -19,7 +19,7 @@
     {
       "sys": { "id": "3" },
       "fields": {
-        "title": "single panel bed",
+        "title": "Sour Patch Kids",
         "price": 12.99,
         "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
       }
